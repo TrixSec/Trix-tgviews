@@ -6,11 +6,13 @@
 # Installation
 
 `git clone https://github.com/TrixSec/Freetgviews`
+
+
 `pip3 install -r requirements.txt`
 
 # Usage
 
-`python3 trixtgview.py {link} {type} [count}`
+`python3 trixtgviews.py {link} {type} [count}`
 
 types : http, socks4, socks5, mix 
 
